@@ -80,6 +80,6 @@ src="https://imgs.search.brave.com/hlJLlUrLwzhpgfcIGN6vE9eNlJsA4TAPtoEGQNUY0e4/r
 </p>
 
 <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=miguelestev986-cloud&repo=Banco-Piton&theme=react&bg_color=1F222E&title_color=89CFF0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+    <a href="https://github.com/miguelestev986-cloud/Banco-Piton"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=miguelestev986-cloud&repo=Banco-Piton&theme=react&bg_color=1F222E&title_color=89CFF0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
     </a>
 </p>
