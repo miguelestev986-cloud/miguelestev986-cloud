@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Sempre%20aprendendo%20novas%20coisas&font=Fira%20Code&center=true&width=440&height=45&color=89CFF0&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-Me chamo Miguel Estevão Vicente, tenho 14 anos e sou natural de São Paulo. Pretendo futuramente cursar Engenharia de Software e sou apaixonado por segurança da informação. Compartilho meus conhecimentos através dos meus repositórios, como no meu repositório onde guardo minhas anotações da linguagem [Python](https://github.com/miguelestev986-cloud/Python). Meus perfis:
+Me chamo Miguel Estevão Vicente, tenho 14 anos e sou natural de São Paulo. Pretendo futuramente cursar Engenharia de Software e sou apaixonado por segurança da informação e idiomas. Sei falar inglês (B1/B2), espanhol(A2) e estudo francês por hobbie. Além dos idiomas, sei a base das linguagens C e Python, que pretendo me aprofundar. Meus perfis:
 
 
 <p align="center">
@@ -68,7 +68,7 @@ src="https://imgs.search.brave.com/hlJLlUrLwzhpgfcIGN6vE9eNlJsA4TAPtoEGQNUY0e4/r
 </p>
 
 <p align="center">
-  <a href="https://github.com/miguelestev986-cloud1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  <a href="https://github.com/miguelestev986-cloud1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Todos%20os%20%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </p>
 
