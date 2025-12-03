@@ -8,18 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Sempre%20aprendendo%20novas%20coisas&font=Fira%20Code&center=true&width=440&height=45&color=89CFF0&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-Me chamo Miguel Estevão Vicente, tenho 14 anos e sou natural de São Paulo. Pretendo futuramente cursar Engenharia de Software e sou apaixonado por segurança da informação e idiomas. Sei falar inglês (B1/B2), espanhol(A2) e estudo francês por hobbie. Além dos idiomas, sei a base das linguagens C e Python, que pretendo me aprofundar. Meus perfis:
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/miguel-estev%C3%A3o-v-088423386/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://imgs.search.brave.com/TyddtjidQp2huQOFruVxu2feQvc-gsAmtOlUvS7RSc8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2xpbmtlZGluLWxv/Z28td2hpdGUtcG5n/LWltYWdlLTkucG5n"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  </a>
-  
-  <a href="https://web.dio.me/users/miguelestev986">
-    <img width="60px" alt="DIO Profile" title="dio.me" src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn"/>
-  </a>
-</p>
+Me chamo Miguel Estevão Vicente, tenho 14 anos e sou natural de São Paulo. Pretendo futuramente cursar Engenharia de Software e sou apaixonado por segurança da informação e idiomas. Sei falar inglês (B1/B2), espanhol(A2) e estudo francês por hobbie. Além dos idiomas, sei a base das linguagens C e Python, das quais pretendo me aprofundar. M
 
 <p align="center">
     <h1 align="center">Linguagens e Tecnologias</h1>
@@ -82,4 +71,18 @@ src="https://imgs.search.brave.com/hlJLlUrLwzhpgfcIGN6vE9eNlJsA4TAPtoEGQNUY0e4/r
 <p align="center">
     <a href="https://github.com/miguelestev986-cloud/Banco-Piton"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=miguelestev986-cloud&repo=Banco-Piton&theme=react&bg_color=1F222E&title_color=89CFF0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
     </a>
+</p>
+
+<p align="center">
+    <h1 align="center">Contate-me!</h1>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguel-estev%C3%A3o-v-088423386/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://imgs.search.brave.com/TyddtjidQp2huQOFruVxu2feQvc-gsAmtOlUvS7RSc8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2xpbmtlZGluLWxv/Z28td2hpdGUtcG5n/LWltYWdlLTkucG5n"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  </a>
+  
+  <a href="https://web.dio.me/users/miguelestev986">
+    <img width="60px" alt="DIO Profile" title="dio.me" src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn"/>
+  </a>
 </p>
