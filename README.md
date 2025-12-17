@@ -74,15 +74,17 @@ src="https://imgs.search.brave.com/hlJLlUrLwzhpgfcIGN6vE9eNlJsA4TAPtoEGQNUY0e4/r
 </p>
 
 <p align="center">
-    <h1 align="center">Contate-me!</h1>
+    <h1 align="center">Minhas Redes</h1>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-estev%C3%A3o-v-088423386/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://imgs.search.brave.com/TyddtjidQp2huQOFruVxu2feQvc-gsAmtOlUvS7RSc8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2xpbmtlZGluLWxv/Z28td2hpdGUtcG5n/LWltYWdlLTkucG5n"/></a>
+  <a href="https://www.linkedin.com/in/miguel-estev%C3%A3o-v-088423386/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="https://imgs.search.brave.com/TyddtjidQp2huQOFruVxu2feQvc-gsAmtOlUvS7RSc8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2xpbmtlZGluLWxv/Z28td2hpdGUtcG5n/LWltYWdlLTkucG5n"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </a>
-  
   <a href="https://web.dio.me/users/miguelestev986">
-    <img width="60px" alt="DIO Profile" title="dio.me" src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn"/>
+    <img width="80px" alt="DIO Profile" title="dio.me" src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn"/>
+  </a>
+  <a href="https://www.codewars.com/users/miguelestev986-cloud">
+    <img width="70px" alt="Code Wars Profile" title="codewars" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwb-5SUDkqTQWSsJIWHVmw1fwCPMmU5Hlypw&s"/>
   </a>
 </p>
